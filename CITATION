@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Modified firmware for MM-DLP Ember 3D Printer
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eric
+    email: ericjviscione@gmail.com
+    family-names: Viscione
+    affiliation: University of Massachusetts Lowell
+  - given-names: Darshil
+    family-names: Shah
+    email: darshil_shah@student.uml.edu
+    affiliation: University of Massachusetts Lowell
+  - given-names: Christopher
+    family-names: Hansen
+    email: christopher_hansen@uml.edu
+    affiliation: University of Massachusetts Lowell
+repository-code: 'https://github.com/hansen-research-group/hansen-lab'
+date-released: '2022-11-23'
